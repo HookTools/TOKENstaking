@@ -33,7 +33,7 @@
         double apy;
     }
 	
-##ACTIONS:
+#ACTIONS:
 
 | | Claim  | Addapy |
 |--| ------------- | ------------- |
