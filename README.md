@@ -7,7 +7,7 @@
 `To use it you need to add **eosio.code** permission`
 
 
-##TABLES:
+**TABLES:**
 
 | Users  | Config |
 | ------------- | ------------- |
@@ -33,7 +33,7 @@
         double apy;
     }
 	
-#ACTIONS:
+**ACTIONS:**
 
 | | Claim  | Addapy |
 |--| ------------- | ------------- |
