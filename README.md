@@ -4,7 +4,7 @@
 - Users can stake their tokens and earn rewards, while you as the contract creator have the ability to set the staking rewards, define the staking period, and set the minimum and maximum amounts of tokens that can be staked.
 - Once a user stakes their tokens, they will receive branded tokens or points that represent their staked tokens. These branded tokens can be used to redeem rewards or participate in other activities within your ecosystem.
 
-`To use it you need to add **eosio.code** permission`
+`To use this contract you need to add **eosio.code** permission`
 
 
 **TABLES:**
